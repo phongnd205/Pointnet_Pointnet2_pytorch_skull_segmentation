@@ -22,7 +22,7 @@ Point cloud (3, m) with corresponding label (m) for each point
 ### Run
 (1) For training: main.py
 
-(2) For predicting:  
+(2) For predicting: main_predict.py
 ### Performance
 | Model | Inctance avg Acc| avg IoU 
 |--|--|--|	
