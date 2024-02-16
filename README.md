@@ -21,6 +21,7 @@ Download alignment **ModelNet** [here](https://shapenet.cs.stanford.edu/media/mo
 Point cloud (3, m) with corresponding label (m) for each point
 ### Run
 (1) For training: main.py
+
 (2) For predicting:  
 ### Performance
 | Model | Inctance avg Acc| avg IoU 
